@@ -1,3 +1,3 @@
-my dirst Git revision
+Main branch code
 Second line added
 Login feature developed
